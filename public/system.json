@@ -1,0 +1,35 @@
+{
+  "id": "monad-echo",
+  "version": "0.1.0",
+  "title": "Monad Echo",
+  "url": "https://github.com/matteojoliveau/foundryvtt-monad-echo/",
+  "description": "TODO",
+  "license": "LICENSE",
+  "authors": [
+    {
+      "name": "Matteo Joliveau",
+      "url": "https://matteojoliveau.com"
+    }
+  ],
+  "esmodules": ["index.js"],
+  "styles": ["style.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291",
+    "maximum": "10"
+  },
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "wounds",
+  "secondaryTokenAttribute": "soma",
+  "manifest": "",
+  "download": ""
+}
